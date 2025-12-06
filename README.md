@@ -34,12 +34,12 @@ Perfect foundation for transcripts, logging, slash commands, staff roles, and mo
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/thetf511/Ticket-Discord-Bot.git
-cd YOURREPO
+cd Ticket-Discord-Bot
 
 2️⃣ Install dependencies
 npm install
 
-3️⃣ Create a .env file
+3️⃣ put in the .env file
 TOKEN=your_discord_bot_token
 PREFIX=!
 
