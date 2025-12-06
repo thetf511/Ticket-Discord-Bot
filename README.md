@@ -33,7 +33,7 @@ Perfect foundation for transcripts, logging, slash commands, staff roles, and mo
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOURNAME/YOURREPO.git
+git clone https://github.com/thetf511/Ticket-Discord-Bot.git
 cd YOURREPO
 
 2️⃣ Install dependencies
